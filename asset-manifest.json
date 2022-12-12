@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/abdulrahman/static/css/main.d68b14fe.css",
+    "main.js": "/abdulrahman/static/js/main.92470aa6.js",
+    "static/js/787.a1d5ab63.chunk.js": "/abdulrahman/static/js/787.a1d5ab63.chunk.js",
+    "static/media/Mubarak.PNG": "/abdulrahman/static/media/Mubarak.479b718a6457f89b57ae.PNG",
+    "static/media/travel-journal.PNG": "/abdulrahman/static/media/travel-journal.84e8253c2196ff088c72.PNG",
+    "static/media/hello-logo.png": "/abdulrahman/static/media/hello-logo.07853feeb29394a43ebe.png",
+    "static/media/password-generator.PNG": "/abdulrahman/static/media/password-generator.af90e843438c28a27e62.PNG",
+    "static/media/scoreboard.PNG": "/abdulrahman/static/media/scoreboard.80dde1c8d2e81ab289c5.PNG",
+    "static/media/unit-converter.PNG": "/abdulrahman/static/media/unit-converter.cd3bb95fa2f9a5d1fd38.PNG",
+    "static/media/github.svg": "/abdulrahman/static/media/github.3c79316f42f0ab8ae9c2d6bab4305de1.svg",
+    "static/media/whatsapp.svg": "/abdulrahman/static/media/whatsapp.f7fe1bdd119cde96cae079c87136b055.svg",
+    "static/media/twitter.svg": "/abdulrahman/static/media/twitter.e58c8cb086ede449a1673db2fca020d6.svg",
+    "static/media/gmail-logo.svg": "/abdulrahman/static/media/gmail-logo.dd0f6192b79aa025a58bcb74de476076.svg",
+    "index.html": "/abdulrahman/index.html",
+    "main.d68b14fe.css.map": "/abdulrahman/static/css/main.d68b14fe.css.map",
+    "main.92470aa6.js.map": "/abdulrahman/static/js/main.92470aa6.js.map",
+    "787.a1d5ab63.chunk.js.map": "/abdulrahman/static/js/787.a1d5ab63.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d68b14fe.css",
+    "static/js/main.92470aa6.js"
+  ]
+}
