@@ -36,9 +36,10 @@ a {
 }
 
 strong {
-  color: #14cfae;
+  color: #16e0bd;
   display: block;
   font-weight: 900;
+  font-size: 2.3rem;
 }
 
 section {
@@ -113,6 +114,7 @@ section {
   top: 200px;
   left: 450px;
   border-radius: 10px;
+  height: 15em;
 }
 
 .about h2 {
